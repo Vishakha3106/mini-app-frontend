@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:2000/models")
+      .get("https://mini-app-backend-1fi3.onrender.com/models")
       .then((res) => setModels(res.data))
       .catch((err) => console.error(err));
   }, []);
