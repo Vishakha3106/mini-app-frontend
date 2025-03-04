@@ -38,3 +38,11 @@ Follow these steps to get the frontend app up and running locally:
    ```bash
    git clone https://github.com/Vishakha3106/mini-app-frontend.git
    cd mini-app-frontend
+
+2. **Install node models**:
+    ```bash
+   npm install 
+
+2. **Start project**:
+    ```bash
+   npm run dev
