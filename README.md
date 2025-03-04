@@ -1,12 +1,40 @@
-# React + Vite
+# Mini App Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Mini App Frontend** repository! This app is the user interface for interacting with the backend of a mini application project, built with **Vite** for fast and optimized development. It allows users to view and upload 3D models to the backend.
 
-Currently, two official plugins are available:
+## 🚀 Live Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend**: [mini-app-frontend-five.vercel.app](https://mini-app-frontend-five.vercel.app)
+- **Backend**: [mini-app-backend-1fi3.onrender.com](https://mini-app-backend-1fi3.onrender.com)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 🚀 backend repositoru
+
+(https://github.com/Vishakha3106/mini-app-backend)
+
+## 📂 Table of Contents
+
+- [Installation](#installation)
+- [Development](#development)
+- [Production Build](#production-build)
+- [Backend API](#backend-api)
+  - [Get Available Models](#get-available-models)
+  - [Upload a Model](#upload-a-model)
+- [Backend Repository](#backend-repository)
+- [Features](#features)
+- [Technologies](#technologies)
+- [License](#license)
+
+---
+
+## 🛠️ Installation
+
+Follow these steps to get the frontend app up and running locally:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Vishakha3106/mini-app-frontend.git
+   cd mini-app-frontend
