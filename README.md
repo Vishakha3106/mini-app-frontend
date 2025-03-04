@@ -10,7 +10,7 @@ Welcome to the **Mini App Frontend** repository! This app is the user interface 
 
 
 
-## 🚀 backend repositoru
+## 🚀 backend repository
 
 (https://github.com/Vishakha3106/mini-app-backend)
 
